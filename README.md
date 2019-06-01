@@ -1,4 +1,5 @@
 # blockchain-uniproject
+![picture alt](https://upload.wikimedia.org/wikipedia/commons/c/c5/Bitcoin_logo.svg)
 
 ### Димитрис Митрусис, фак.№1801737019
 
